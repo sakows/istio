@@ -4,7 +4,7 @@
 
 set -ex
 
-NGINX_VERSION=1.13.7
+NGINX_VERSION=1.14.0
 
 TEMP_DIR="$(mktemp -d)" 
 
